@@ -1,12 +1,10 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+練習用_20260227
 
 ## Description
-Optional section to provide a more detailed overview of the project.
+AI Workbench の操作に慣れるための練習用プロジェクト(20260227変更)です。
 
 ## Get Started
-This section should be used to summarize the project and how to get started after cloning. Once this section 
-is edited, it will show up on the Project Dashboard tab. 
-
-If you completely delete this section, the "Get Started" widget will be removed from the Project Dashboard.
-
+1. コンテナを起動します。
+2. VS Code を開きます。
+3. main.py を実行して動作を確認します。
